@@ -1,3 +1,4 @@
+/*
 additionTest();
 subtractionTest();
 multiplicationTest();
@@ -78,3 +79,4 @@ function allOperatorTest() {
     testCompute(-11, "1+3-3*10/2");
     testCompute(-4, "3-2-3*10/2+10");
 }
+*/
